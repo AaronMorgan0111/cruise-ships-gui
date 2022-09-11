@@ -1,1 +1,1 @@
-# cruise-ships-gui
+# Cruise Ships Project
